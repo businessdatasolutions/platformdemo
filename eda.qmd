@@ -23,8 +23,9 @@ insurance_df
 url = "data/trip.csv"
 bike_trip_df = pd.read_csv(url)
 bike_trip_df.head()
-# Change timestamps to '
+# Change timestamps to datetime'
 bike_trip_df['start_date'] = pd.to_datetime(bike_trip_df['start_date'])
+bike_trip_df['end_date'] = pd.to_datetime(bike_trip_df['end_date'])
 # Filter rows based on column: 'start_date'
 year_to_extract = 2014
 subset_bike_trip_df = bike_trip_df[bike_trip_df['start_date'].dt.year == year_to_extract]
@@ -33,8 +34,15 @@ subset_bike_trip_df = subset_bike_trip_df[(subset_bike_trip_df['start_station_id
 subset_bike_trip_df.to_csv('data/trip2014.csv')
 ```
 
-```{r}
-write.csv(trip2014, "data/trip2014.csv", row.names=FALSE)
-
+```{python}
+url = "data/weather.csv"
+bike_weather_df = pd.read_csv(url)
+# Change timestamps to datetime'
+bike_weather_df['date'] = pd.to_datetime(bike_weather_df['date'])
+bike_weather_df.head()
+# Filter rows based on column: 'start_date'
+year_to_extract = 2014
+subset_bike_weather_df = bike_weather_df[(bike_weather_df['date'].dt.year == year_to_extract)]
+subset_bike_weather_df.to_csv('data/weather2014.csv',index=False)
 ```
 
