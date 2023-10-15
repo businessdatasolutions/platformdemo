@@ -15,7 +15,17 @@ import pandas as pd
 
 ```{python}
 url = "data/insurance.csv"
-df = pd.read_csv(url)
-df
+insurance_df = pd.read_csv(url)
+insurance_df
+```
+
+```{python}
+url = "data/trip.csv"
+bike_trip_df = pd.read_csv(url)
+bike_trip_df.tail()
+bike_trip_df['start_date'] = pd.to_datetime(bike_trip_df['start_date'])
+year_to_extract = 2014
+subset_bike_trip_df = bike_trip_df[bike_trip_df['start_date'].dt.year == year_to_extract]
+subset_bike_trip_df.to_csv('data/trip2014.csv')
 ```
 
