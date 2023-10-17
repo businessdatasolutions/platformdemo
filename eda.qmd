@@ -23,6 +23,10 @@ insurance_df
 url = "data/trip.csv"
 bike_trip_df = pd.read_csv(url)
 bike_trip_df.head()
+
+```
+
+```{python}
 # Change timestamps to datetime'
 bike_trip_df['start_date'] = pd.to_datetime(bike_trip_df['start_date'])
 bike_trip_df['end_date'] = pd.to_datetime(bike_trip_df['end_date'])
@@ -31,6 +35,10 @@ year_to_extract = 2014
 subset_bike_trip_df = bike_trip_df[bike_trip_df['start_date'].dt.year == year_to_extract]
 # Filter rows based on column: 'start_station_id'
 subset_bike_trip_df = subset_bike_trip_df[(subset_bike_trip_df['start_station_id'] > 60) & (subset_bike_trip_df['start_station_id'] <= 70)]
+subset_bike_trip_df.head()
+```
+
+```{python}
 subset_bike_trip_df.to_csv('data/trip2014.csv')
 ```
 
