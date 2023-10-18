@@ -1,18 +1,37 @@
-"Person name","Entity name","Type of relationship","Citizenship"
-"Hamid Reza SHARIFI TEHRANI","Qods Aviation Industries","Member of the Board of Directors","Iran"
-"Jurij Nikolajevitj TELIKANOV","Luhansk People’s Republic","Member of the so-called ‘People’s Council’","Ukraine"
-"Maksim Anatoljevitj UVAROV","Luhansk People’s Republic","Member of the so-called ‘People’s Council’","Unknown"
-"Aleksandr Viktorovich ERMOLENKO","Luhansk People’s Republic","Member of the so-called ‘People’s Council’","Unknown"
-"Dmitrij Sergejevitj SIDOROV","Luhansk People’s Republic","So-called ‘Minister of Culture, Sports and Youth’","Unknown"
-"Sergej Aleksejevitj BORODIN","Luhansk People’s Republic","So-called ‘Chairman of the State Committee for Taxes and Duties’","Unknown"
-"Valerij Ivanovitj Janusjkevitj","North-Western Operational Command of Belarus","Deputy Troops Commander for Ideological Work","Belarus"
-"Vyacheslav Aleksandrovich LENKEVICH","North-Western Operational Command of Belarus","Deputy Commander in Charge of Logistics","Belarus"
-"Короткий Александр ВЛАДИМИРОВИЧ","Donetsk People’s Republic","Member of the so-called ‘People’s Council’","Unknown"
-"Oksana Viktorivna SIHIDINA","Donetsk People’s Republic","Member of the so-called ‘People’s Council’","Unknown"
-"Дмитрий Леонидович КУКАРСКИЙ","Luhansk People’s Republic","Member of the so-called ‘People’s Council’","Russian Federation"
-"Андрей Викторович ЛИЦОЕВ","Luhansk People’s Republic","Member of the so-called ‘People’s Council’","Ukraine"
-"Oleksandr Volodymyrovytj KOVTYRIN","Donetsk People’s Republic","Member of the so-called ‘People’s Council’","Unknown"
-"Olha Oleksandrivna KRAVTSOVA","Donetsk People’s Republic","Member of the so-called ‘People’s Council’","Unknown"
-"Jurij PYZJIK","61st Fighter Air Base / Baranovichi airfield","Military pilot sniper, Colonel, Commander","Belarus"
-"Vladimir Nikolaevich KUPRIYANYUK","Western Operational Command","Chief of Staff - First Deputy Commander","Belarus"
-"Ghassem DAMAVANDIAN","Qods Aviation Industries","Member of the Board of Directors","Iran"
+Person name,Entity name,Type of relationship,Citizenship
+Hamid Reza SHARIFI TEHRANI,Qods Aviation Industries,Member of the Board of Directors,Iran
+Jurij Nikolajevitj TELIKANOV,Luhansk People’s Republic,Member of the so-called ‘People’s Council’,Ukraine
+Maksim Anatoljevitj UVAROV,Luhansk People’s Republic,Member of the so-called ‘People’s Council’,Unknown
+Aleksandr Viktorovich ERMOLENKO,Luhansk People’s Republic,Member of the so-called ‘People’s Council’,Unknown
+Dmitrij Sergejevitj SIDOROV,Luhansk People’s Republic,"So-called ‘Minister of Culture, Sports and Youth’",Unknown
+Sergej Aleksejevitj BORODIN,Luhansk People’s Republic,So-called ‘Chairman of the State Committee for Taxes and Duties’,Unknown
+Valerij Ivanovitj Janusjkevitj,North-Western Operational Command of Belarus,Deputy Troops Commander for Ideological Work,Belarus
+Vyacheslav Aleksandrovich LENKEVICH,North-Western Operational Command of Belarus,Deputy Commander in Charge of Logistics,Belarus
+Короткий Александр ВЛАДИМИРОВИЧ,Donetsk People’s Republic,Member of the so-called ‘People’s Council’,Unknown
+Oksana Viktorivna SIHIDINA,Donetsk People’s Republic,Member of the so-called ‘People’s Council’,Unknown
+Дмитрий Леонидович КУКАРСКИЙ,Luhansk People’s Republic,Member of the so-called ‘People’s Council’,Russian Federation
+Андрей Викторович ЛИЦОЕВ,Luhansk People’s Republic,Member of the so-called ‘People’s Council’,Ukraine
+Oleksandr Volodymyrovytj KOVTYRIN,Donetsk People’s Republic,Member of the so-called ‘People’s Council’,Unknown
+Olha Oleksandrivna KRAVTSOVA,Donetsk People’s Republic,Member of the so-called ‘People’s Council’,Unknown
+Jurij PYZJIK,61st Fighter Air Base / Baranovichi airfield,"Military pilot sniper, Colonel, Commander",Belarus
+Vladimir Nikolaevich KUPRIYANYUK,Western Operational Command,Chief of Staff - First Deputy Commander,Belarus
+Ghassem DAMAVANDIAN,Qods Aviation Industries,Member of the Board of Directors,Iran
+Person name,Entity name,Type of relationship,Citizenship
+Jurij Aleksandrovitj NIKONOV,Missile Pre-Planning unit at the Main Computing Centre of the General Staff (GVC) of Russia’s Armed Forces General Staff,Member,Russian Federation
+Oleksandr Volodymyrovytj KOVTYRIN,People’s Council of the Donetsk People’s Republic,Member,Unknown
+Olha Oleksandrivna KRAVTSOVA,People’s Council of the Donetsk People’s Republic,Member,Unknown
+Valerij Ivanovitj Janusjkevitj,North-Western Operational Command of Belarus,Deputy Troops Commander for Ideological Work – Head of the Ideological Work Department,Belarus
+Vyacheslav Aleksandrovich LENKEVICH,North-Western Operational Command of Belarus,"Deputy Commander in Charge of Logistics, Head of Logistics",Belarus
+Jurij Nikolajevitj TELIKANOV,People’s Council of the Luhansk People’s Republic,Member,Ukraine
+Maksim Anatoljevitj UVAROV,People’s Council of the Luhansk People’s Republic,Member,Unknown
+Aleksandr Viktorovich ERMOLENKO,People’s Council of the Luhansk People’s Republic,Member,Unknown country
+Dmitrij Leonidovitj KUKARSKIJ,People’s Council of the Luhansk People’s Republic,Member,Russian Federation
+Andrej Viktorovitj LITSOJEV,People’s Council of the Luhansk People’s Republic,Member,Ukraine
+Jurij PYZJIK,61st Fighter Air Base / Baranovichi airfield,"Military pilot sniper, Colonel, Commander",Belarus
+Denis Vladimirovich PUSHILIN,Donetsk People’s Republic,Chairman of the People's Council of the Donetsk People's Republic,"Ukraine, Donetsk oblast, Makiivka"
+Olga Igorevna BESEDINA,Donetsk People’s Republic,Former Minister of Economic Development and Trade,Unknown
+Olga Valerijivna POZDNJAKOVA,Donetsk People’s Republic,Member,Russian Federation
+Volodymyr Petrovych KONONOV,Donetsk People’s Republic,Member,Ukraine
+Miroslav Vladimirovich RUDENKO,Donetsk People’s Republic,Associated with the Donbass People’s Militia,Unknown
+Ekaterina Vladimirovna GOGIASHVILI,Donetsk People’s Republic,Member,Ukraine
+Olena Valeriyivna KRAVCHENKO,Luhansk People’s Republic,Chairperson of the Central Electoral Commission,Unknown
