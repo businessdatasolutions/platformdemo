@@ -57,6 +57,6 @@ subset_bike_weather_df.to_csv('data/weather2014.csv',index=False)
 ```{python}
 url = "data/sanctions.csv"
 sanctions_df = pd.read_csv(url)
+sanctions_df.drop_duplicates()
 sanctions_df
-
 ```
